@@ -1,0 +1,45 @@
+# Weather-App: Development Strategy
+
+Building this site one step at a time
+
+---
+
+## 0. README
+
+- Write the `README.md`, including the final screen shot
+- Include a License
+- Include this `development.md` file
+
+---
+
+## 1. Setup
+
+- Create react folder with `npx create-react-app weather-app`
+
+---
+
+## 2. User Story: Components
+
+**A user can see the h1, form. **
+
+### Backend:
+
+- Create components folder and  `form-titles-weather.js` files.
+
+---
+
+## 3. User Story: Fetch
+
+**A user can see the results of his requests.**
+
+- Add  class `App` in `app.js` to fetch the requests of users when they write the city and country.
+- Render them when the responses are being taken.
+
+---
+
+## 4. User Story: Bootstrap
+
+**A user can see more beautiful web application.**
+
+- Install bootstrap with command line `npm install bootstrap --save` .
+- Import `bootstrap` in index.js.
