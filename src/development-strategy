@@ -22,7 +22,6 @@ Building this site one step at a time
 
 **A user can see the h1, form. **
 
-### Backend:
 
 - Create components folder and  `form-titles-weather.js` files.
 
